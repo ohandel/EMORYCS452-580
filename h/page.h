@@ -1,0 +1,15 @@
+extern int sem_mm;
+extern int p_alive;
+extern int sem_pf;
+extern int pf_ctr;
+extern int pf_start;
+extern int Tsysframe[];
+extern int Tmmframe[];
+extern int Scronframe;
+extern int Spagedframe;
+extern int Sdiskframe;
+extern int Tsysstack[];
+extern int Tmmstack[];
+extern int Scronstack;
+extern int Spagedstack;
+extern int Sdiskstack;

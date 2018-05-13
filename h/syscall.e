@@ -1,0 +1,9 @@
+extern void killgchilrend();
+extern void Create_Process();
+extern void killchildren();
+extern void cleansem();
+extern void Terminate_Process();
+extern void Sem_OP();
+extern void notused();
+extern void Specify_Trap_State_Vector();
+extern void Get_CPU_Time();
